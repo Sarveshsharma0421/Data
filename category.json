@@ -1,0 +1,62 @@
+dbs . category. insert(
+    [
+        {
+            "id":1,
+            "category": "Clothes",
+            "thumb":"https://i.ibb.co/DYCSzDL/box1-image.jpg"
+        },
+        {
+            "id":2,
+            "category":"Health & Personal Care",
+            "thumb":"https://i.ibb.co/tbYmVnM/box2-image.jpg"
+        },
+        {
+            "id":3,
+            "category":"Furniture",
+            "thumb":"https://i.ibb.co/M1qsp6y/box3-image.jpg"
+        },
+        {
+            "id":4,
+            "category": "Electronics",
+            "thumb":"https://i.ibb.co/VV4qLB5/box4-image.jpg"
+        }
+    ]
+)
+
+
+db.category.insert([
+    {
+        "id": 5,
+        "category": "Beauty picks",
+        "thumb": "https://i.ibb.co/ZzxJDkh/box5-image.jpg"
+      }
+
+      {
+        "id": 6,
+        "category": "Pet Care",
+        "thumb": "https://i.ibb.co/QFB4409/box6-image.jpg"
+      }
+
+      {
+        "id": 7,
+        "category": "New Arrival in Toys",
+        "thumb": "https://i.ibb.co/G7jPnCN/box7-image.jpg"
+      }
+
+      {
+        "id": 8,
+        "category": "Books",
+        "thumb": "https://i.ibb.co/LhBwpKC/box8-image.jpg"
+      }
+
+])
+
+
+
+
+
+
+
+
+
+

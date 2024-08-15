@@ -1,0 +1,808 @@
+[
+    {
+        "id": 1,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 379,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/G95bhnC/men-t-shirt-1.webp",
+        "Color": "Deark Blue",
+        "Brand": "Lymio"
+    },
+
+    {
+        "id": 2,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 319,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/R91htWL/men-t-shirt-2.webp",
+        "Color": "Blue",
+        "Brand": "Noble Monk"
+    },
+
+    {
+        "id": 3,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 399,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/5YPytMS/men-t-shirt-3.webp",
+        "Color": "white",
+        "Brand": "Leriya Fashion"
+    },
+
+    {
+        "id": 4,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 275,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/k8R1MbS/men-t-shirt-4.webp",
+        "Color": "Maroon ",
+        "Brand": "EYEBOGLER"
+    },
+
+    {
+        "id": 5,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 399,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/mvMptKT/men-t-shirt-5.webp",
+        "Color": "white-crem",
+        "Brand": "I ENTERPRISE"
+    },
+
+    {
+        "id": 6,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 299,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/PZMhbjH/men-t-shirt-6.webp",
+        "Color": "light-brown",
+        "Brand": "BULLMER"
+    },
+
+    {
+        "id": 7,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 249,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/NxnjR7J/men-t-shirt-7.webp",
+        "Color": "light-red",
+        "Brand": "AUSK"
+    },
+
+    {
+        "id": 8,
+        "product_name": "Man section",
+        "category": "Clothes",
+        "product_id":1,
+        "Price": 349,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/R07DpV3/men-t-shirt-8.webp",
+        "Color": "White",
+        "Brand": "Lymio"
+    },
+    
+   { "id": 9,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 479,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/nmSRfsd/women-1.webp",
+        "Color": "White",
+        "Brand": "GoSriKi"
+    },
+
+    { "id": 10,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 499,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/RCh8scq/women-2.webp",
+        "Color": "Green",
+        "Brand": "KSHS"
+    },
+
+    { "id": 11,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 379,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/qB6dLJ8/women-3.webp",
+        "Color": "Ligth-blue",
+        "Brand": "Rytras"
+    },
+
+    { "id": 12,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 479,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/qNx6jVD/women-4.webp",
+        "Color": "Green",
+        "Brand": "Ontarious Look"
+    },
+
+    { "id": 13,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 579,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/8sH13CT/women-5.webp",
+        "Color": "White",
+        "Brand": "Leriya Fashion"
+    },
+
+    { "id": 14,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 479,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/YpJ8tPV/women-6.webp",
+        "Color": "Orange",
+        "Brand": "Leriya Fashion"
+    },
+
+    { "id": 15,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 479,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/Q81pp15/women-7.webp",
+        "Color": "White and green",
+        "Brand": "Leriya Fashion"
+    },
+
+    { "id": 16,
+        "product_name": "Women section",
+        "category": "Clothes",
+        "product_id":2,
+        "Price": 479,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/W5pCZJK/women-8.webp",
+        "Color": "green",
+        "Brand": "Leriya Fashion"
+    },
+
+
+    {
+    "id": 17,
+        "product_name": "madicine box",
+        "category": "Health & Personal Care",
+        "product_id":3,
+        "Price": 156,
+        "Size": "Larg",
+        "Image": "https://i.ibb.co/CQKgWfN/Health-1.webp",
+        "Brand": "Himalaya "
+
+    },
+
+    {
+        "id": 18,
+            "product_name": "madicine box",
+            "category": "Health & Personal Care",
+            "product_id":3,
+            "Price": 749,
+            "Size": "Larg",
+            "Image": "https://i.ibb.co/y0ZcrnJ/Health-2.webp",
+            "Brand": "DABUR "
+    
+        },
+
+        {
+            "id": 19,
+                "product_name": "madicine box",
+                "category": "Health & Personal Care",
+                "product_id":3,
+                "Price": 289,
+                "Size": "Medium",
+                "Image": "https://i.ibb.co/3W10Tyv/Health-3.webp",
+                "Brand": "Zandu "
+        
+            },
+   
+      {
+          "id": 20,
+                 "product_name": "madicine box",
+                 "category": "Health & Personal Care",
+                 "product_id":3,
+                 "Price": 284,
+                 "Size": "Small",
+                 "Image": "https://i.ibb.co/82Y7nTk/Health-4.webp",
+                  "Brand": "Himalaya "
+                    
+             },
+        
+     {
+         "id": 21,
+             "product_name": "Perfume",
+             "category": "Health & Personal Care",
+             "product_id":4,
+             "Price": 367,
+             "Size": "100ml",
+             "Image":"https://i.ibb.co/VYFWzLC/Personal-Care1.webp",
+             "Brand": " Park Avenue "
+                        
+            },
+        
+  {
+      "id": 22,
+          "product_name": "Perfume",
+          "category": "Health & Personal Care",
+          "product_id":4,
+          "Price": 541,
+          "Size": "100ml",
+          "Image": "https://i.ibb.co/f846zMP/Personal-Care-2.webp", 
+          "Brand": " Bella Vita Luxury FRESH  "
+                            
+           },
+        
+  {
+      "id": 23,
+          "product_name": "Perfume",
+          "category": "Health & Personal Care",
+          "product_id":4,
+          "Price": 598,
+          "Size": "100ml",
+          "Image": "]https://i.ibb.co/xCkJCxg/Personal-Care-3.webp",
+          "Brand": "Bella Vita Luxury GOAT  "
+                                
+},
+                                    
+  {
+     "id": 24,
+          "product_name": "Perfume",
+          "category": "Health & Personal Care",
+          "product_id":4,
+          "Price": 248,
+          "Size": "50ml",
+          "Image": "https://i.ibb.co/LZdHS34/Personal-Care-4.webp",
+          "Brand": "Bella Vita Luxury CEO "
+                                    
+},
+        
+  {  
+    "id": 25,
+         "product_name": "Cream",
+         "category": "Health & Personal Care",
+         "product_id":5,
+         "Price": 1750,
+         "Size": "100g",
+         "Image": "https://i.ibb.co/dgfbSmn/Personal-Care-5.webp",
+         "Brand": "Forest Essentials "
+                                        
+  },
+        
+{   "id": 26,
+         "product_name": "Cream",
+         "category": "Health & Personal Care",
+         "product_id":5,
+         "Price": 1575,
+         "Size": "100g",
+         "Image": "https://i.ibb.co/dLMxLvY/Personal-Care-6.webp",
+         "Brand": "Forest Essentials "
+                                            
+  },
+        
+{
+  "id": 27,
+      "product_name": "Cream",
+      "category": "Health & Personal Care",
+      "product_id":5,
+      "Price": 547,
+      "Size": "250gm",
+      "Image": "https://i.ibb.co/Kqzw3Yw/Personal-Care-7.webp",
+      "Brand": "mcaffeine Body Butter For Dry Skin "
+                                                
+  },
+        
+{
+  "id": 28,
+     "product_name": "Cream",
+     "category": "Health & Personal Care",
+     "product_id":5,
+     "Price": 467,
+     "Size": "600ml",
+     "Image": "https://i.ibb.co/ZMXwdrS/Personal-Care-8.webp",
+     "Brand": "NIVEA "
+                                                    
+  },
+
+  {
+    "id": 29,
+       "product_name": "Body Wash",
+       "category": "Health & Personal Care",
+       "product_id":6,
+       "Price": 236,
+       "Size": "100ml",
+       "Image": "https://i.ibb.co/dfjm4D6/Personal-Care-9.webp",
+       "Brand": "Pears "
+                                                      
+    },
+
+    {
+        "id": 30,
+           "product_name": "Body Wash",
+           "category": "Health & Personal Care",
+           "product_id":6,
+           "Price": 216,
+           "Size": "100ml",
+           "Image": "https://i.ibb.co/tY2HbMP/Personal-Care-10.webp",
+           "Brand": "Lux "
+                                                          
+        },
+
+     {
+            "id": 31,
+               "product_name": "Body Wash",
+               "category": "Health & Personal Care",
+               "product_id":6,
+               "Price": 135,
+               "Size": "250ml",
+               "Image": "https://i.ibb.co/S6c6qvP/Personal-Care-11.webp",
+               "Brand": "Dove "
+                                                              
+         },
+
+     
+         {
+            "id": 32,
+               "product_name": "Sorage",
+               "category": "Furniture",
+               "product_id":7,
+               "Price":685,
+               "Image": "https://i.ibb.co/PxTQbS0/Furniture-1.webp",
+               "Brand": "ALMAND Fabric "
+                                                              
+         }, 
+         
+         
+     {
+        "id": 33,
+           "product_name": "Table",
+           "category": "Furniture",
+           "product_id":8,
+           "Price": 399,
+           "Image": "https://i.ibb.co/PrLXhjH/Furniture-2.webp",
+           "Brand": " UHUD CRAFTS"
+                                                          
+     },
+
+     
+     {
+        "id": 34,
+           "product_name": "Shelves",
+           "category": "Furniture",
+           "product_id":9,
+           "Price": 2763,
+           "Image": "https://i.ibb.co/T8KqNbx/Furniture-3.webp",
+           "Brand": " Lukzer "
+                                                          
+     },
+
+     
+     {
+        "id": 35,
+           "product_name": "Shelves ",
+           "category": "Furniture",
+           "product_id":9,
+           "Price": 388,
+           "Image": "https://i.ibb.co/QXxDgy0/Furniture-4.webp",
+           "Brand": " Floating Shelves"
+                                                          
+     },
+
+     
+     {
+        "id": 36,
+           "product_name": "Sorage",
+           "category": "Furniture",
+           "product_id":7,
+           "Price": 3899,
+           "Image": "https://i.ibb.co/6sWkRXj/Furniture-5.webp",
+           "Brand": "ObalTure"
+                                                          
+     },
+
+     
+     {
+        "id": 37,
+           "product_name": "Mobile",
+           "category": "Electronics",
+           "product_id":10,
+           "Price": 139999,
+           "Image": "https://i.ibb.co/JKsCXV3/Electronics-1.webp",
+           "Item-detail":"Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 512GB Storage)",
+           "Brand": "Samsung "
+
+                                                          
+     },
+
+     {
+        "id": 38,
+           "product_name": "Mobile",
+           "category": "Electronics",
+           "product_id":10,
+           "Price": 19999,
+           "Image": "https://i.ibb.co/80KLJRS/Electronics-2.webp",
+           "Brand": "Samsung "
+                                                          
+     },
+     
+
+     {
+        "id": 39,
+           "product_name": "Mobile",
+           "category": "Electronics",
+           "product_id":10,
+           "Price": 137600,
+           "Image": "https://i.ibb.co/YBG286t/Electronics-3.webp",
+           "Brand": " I phone"
+                                                          
+     },
+     
+
+     {
+        "id": 40,
+           "product_name": "Mobile",
+           "category": "Electronics",
+           "product_id":10,
+           "Price": 70900,
+           "Image": "https://i.ibb.co/BtkctNV/Electronics-4.webp",
+           "Brand": " I phone"
+                                                          
+     },
+     
+
+     {
+        "id": 41,
+           "product_name": "Smart Watch",
+           "category": "Electronics",
+           "product_id":11,
+           "Price": 1599,
+           "Image": "https://i.ibb.co/GTSDTxh/Electronics-5.webp",
+           "Brand": "Fire-boltt "
+                                                          
+     },
+
+     {
+        "id":42 ,
+        "product_name": "Washing Machine",
+        "category": "Electronics",
+        "product_id":12,
+        "Price": 15000,
+        "Image":"https://i.ibb.co/NrHbwwD/w3.jpg" ,
+        "Mode": "Automatic",
+        "Color": "Grey",
+        "Brand": "Lloyd"
+    },
+    {
+        "id": 43,
+        "product_name": "Refrigerator",
+        "category": "Electronics",
+        "product_id":13,
+        "Price": 50000,
+        "Image": "https://i.ibb.co/Tm1GmYc/w4.jpg",
+        "Style": "Double-Door",
+        "Color": "Metal Grey",
+        "Brand": "Samsung"
+    },
+    {
+        "id": 44,
+        "product_name": "Refrigerator",
+        "category": "Electronics",
+        "product_id":13,
+        "Price": 25000,
+        "Image":"https://i.ibb.co/zrLv8Bj/w5.jpg" ,
+        "style": "Single Door",
+        "Color": "Metal Black",
+        "Brand": "Whirlpool"
+    },
+    {
+        "id": 45,
+        "product_name": "Iron",
+        "category": "Electronics",
+        "product_id":14,
+        "Price": 3000,
+        "Image": "https://i.ibb.co/Tw9cXss/w6.jpg", 
+        "Color": "Blue",
+        "Brand": "Havells"
+    },
+    {
+        "id": 46,
+        "product_name": "Iron",
+        "category": "Electronics",
+        "product_id":14,
+        "Price": 4000,
+        "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+        "Color": "Black",
+        "Brand": "Bajaj"
+    },
+     {
+        "id": 47,
+           "product_name": "Lipstick",
+           "category": "Beauty picks",
+           "product_id":15,
+           "Price": 359,
+           "Image": "https://i.ibb.co/ncxwvZ4/Beauty-picks-1.webp",
+           "Brand": "Iba  "
+                                                          
+     },
+     {
+        "id": 48,
+           "product_name": "Lipstick",
+           "category": "Beauty picks",
+           "product_id":15,
+           "Price": 1850,
+           "Image": "https://i.ibb.co/f22vFcJ/Beauty-picks-2.webp",
+           "Brand": "Forest Essentials"
+                                                          
+     },
+
+     
+     {
+        "id": 49,
+           "product_name": "Lipstick",
+           "category": "Beauty picks",
+           "product_id":15,
+           "Price": 181,
+           "Image": "https://i.ibb.co/k65Qr13/Beauty-picks-3.webp",
+           "Brand": " Maybelline New York"
+                                                          
+     },
+
+     
+     {
+        "id": 50,
+           "product_name": "Pick Me",
+           "category": "Beauty picks",
+           "product_id":16,
+           "Price": 215,
+           "Image": "https://i.ibb.co/dg1V5WJ/Beauty-picks-4.webp",
+           "Brand": "Glam21 "
+                                                          
+     },
+
+     
+     {
+        "id": 51,
+           "product_name": "Dogs Food",
+           "category": "Pet Care",
+           "product_id":18,
+           "Price": 5889,
+           "Image": "https://i.ibb.co/qy60tyV/Pet-Care-1.jpg",
+           "Flavour": "Chicken",
+           "Age Range (Description)":"Adult",
+            "Item Form":"Dry",
+            "Brand":	"Pedigree",
+           "Item Weight":"20000 Grams"                             
+     },
+
+     {
+        "id": 52,
+           "product_name": "Dogs Food ",
+           "category": "Pet Care",
+           "product_id":18,
+           "Price": 209,
+           "Image": "https://i.ibb.co/PjDznyg/Pet-Care-2.jpg",
+           "Brand": " BellyRubs" ,
+           "Flavour": "Chicken & Peanut Butter",
+           "Age Range (Description)":"Senior, Adult Baby, Puppy",
+            "Item Form":"Dry",
+           "Item Weight":"252 Grams"                                 
+     },
+
+     {
+        "id": 53,
+           "product_name": "Dogs Food ",
+           "category": "Pet Care",
+           "product_id":18,
+           "Price": 256,
+           "Image": "https://i.ibb.co/dmKb3gZ/Pet-Care-5.webp",
+           "Brand": " Meat Ups " , 
+           "Flavour": "Chicken",
+           "Age Range (Description)":"Adult",
+            "Item Form":"Dry"                           
+     },
+
+     {
+        "id": 54,
+           "product_name": "Care product of Pet",
+           "category": "Pet Care",
+           "product_id":19,
+           "Price": 1599,
+           "Image": "https://i.ibb.co/dP562MT/Pet-Care-4.webp",
+           "Brand": "Orange Pet Nutrition",
+           "Scent":"Tea Tree",
+           "Item Form":"Powder",
+           "Liquid Volume":"200 Milliltres",
+           "Target Species":"Dog & Cat"                               
+     },
+
+     {
+        "id": 55,
+           "product_name": "Care product of Pet ",
+           "category": "Pet Care",
+           "product_id":19,
+           "Price": 599,
+           "Image": "https://i.ibb.co/yNyfBRs/Pet-Care-3.jpg",
+           "Brand": " Ear Care Plus "                    
+     },
+
+     {
+        "id": 56,
+           "product_name": "Care product of Pet",
+           "category": "Pet Care",
+           "product_id":19,
+           "Price": 299,
+           "Image": "https://i.ibb.co/mFLLcCs/Pet-Care-6.jpg",
+           "Brand": "Himalaya Wellness Company ",
+           "Scent":"Lemon",
+           "Item Weight":"0.2 Kilograms"                                
+     },
+
+     {
+        "id": 57,
+           "product_name": "Toys disney",
+           "category": " New Arrival in Toys",
+           "product_id":20,
+           "Price": 4020,
+           "Image": "",
+           "Theme":"Disney",
+           "Brand"	:"Funko",
+           "Style":	"Modern",
+           "Material"	:"Vinyl",
+            "Cartoon Character":"Alien",
+           "Item Weight":"115 Grams"                              
+     },
+     
+     {
+        "id": 58,
+           "product_name": "Toys disney",
+           "category": " New Arrival in Toys",
+           "product_id":20,
+           "Price": 899,
+           "Image": "",
+           "Brand": "BOENJOY",
+           "Colour":"Frozen 6 pcs New",                               
+           "Product Dimensions":"10L x 5W x 10H Centimeters"                               
+     },
+     
+     {
+        "id": 59,
+           "product_name": "Toys disney",
+           "category": " New Arrival in Toys",
+           "product_id":20,
+           "Price": 1200,
+           "Image": "",
+           "Brand": " Bicycle" ,
+           "Theme":"Disney"                              
+     },
+     
+     {
+        "id": 60,
+           "product_name": "",
+           "category": " New Arrival in Toys",
+           "product_id":21,
+           "Price": 1599,
+           "Image": "",
+           "Brand": " "                               
+     },
+     
+     {
+        "id": 61,
+           "product_name": "Bord toys",
+           "category": " New Arrival in Toys",
+           "product_id":21,
+           "Price": 2399,
+           "Image": "",
+           "Game name":"Monopoly Harry Potter Edition Board Game",
+           "Brand": "Hasbro Gaming "                               
+     },
+     
+     {
+        "id": 62,
+           "product_name": "Bord toys",
+           "category": " New Arrival in Toys",
+           "product_id":21,
+           "Price": 4170,
+           "Game name":"Go India Games Bharata 600 Bc",
+           "Image": "",
+           "Brand": "Go India Games"                               
+     },
+
+     {
+        "id": 63,
+           "product_name": "Bord toys",
+           "category": "Discover Fasion Trends",
+           "product_id":22,
+           "Price": 1989,
+           "Image": "",
+           "Game name":"Monopoly Super Electronic Banking Board Game",
+           "Brand": " Monopoly"                               
+     },
+    
+     {
+        "id": 64,
+           "product_name": "Story book",
+           "category": "Books",
+           "product_id":22,
+           "Price": 800,
+           "Image": "",
+           "Story name": "Mahabharata ",   
+           "Brand":"Illustrated Tales From Ancient India"                            
+     },
+    
+     {
+        "id": 65,
+           "product_name": "Story book",
+           "category": "Books",
+           "product_id":22,
+           "Price": 299,
+           "Image": "",
+           "Story name":"Alexandrian Knights",
+           "Brand": " Lavik jain"                               
+     },
+    
+     {
+        "id": 66,
+           "product_name": "Story book",
+           "category": "Books",
+           "product_id":23,
+           "Price": 280,
+           "Image": "",
+           "Story name":"The Last Kids on Earth ",
+           "Brand": "Max brallier"                               
+     },
+    
+     {
+        "id": 67,
+           "product_name": "Study book",
+           "category": "Books",
+           "product_id":23,
+           "Price": 299,
+           "Image": "",
+           "Study book name": " TOPPERS' STUDY HACKS "                               
+     },
+    
+     {
+        "id": 68,
+           "product_name": "Study book",
+           "category": "Books",
+           "product_id":23,
+           "Price": 599,
+           "Image": "",
+           "Study book name":"SSC latest General Studies ",
+           "Brand": "SSC "                               
+     },
+    
+     {
+        "id": 69,
+           "product_name": "Study book",
+           "category": "Books",
+           "product_id":23,
+           "Price": 257,
+           "Image": "",
+           "Study book name":"Ready, Study, Go!",
+           "Brand": "Harper Collins India "                               
+     }
+]

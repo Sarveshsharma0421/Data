@@ -1,0 +1,55 @@
+db.orders.insert([
+    {
+        "_id": "62514d42f5aec503b2e0f2a9",
+        "name": "Piyush",
+        "email": "piyush@gmail.com",
+        "address": "488 S Mills Rd ,Ventura",
+        "phone": 7563453860,
+        "purchase-category":"Electronics",
+        "purchase-item":"Mobile",
+        "Item-detail":"Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 512GB Storage)",
+        "Price":139999,
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d69f5aec503b2e0f2aa",
+        "name": "Ayush",
+        "email": "ayush@gmail.com",
+        "address": "488 S Mills Rd ,Ventura",
+        "phone": 7563453860,
+        "purchase-category":"Health & Personal Care",
+        "purchase-item":"Perfume",
+        "Item-detail":"Bella Vita Luxury GOAT Perfume , size:100ml",
+        "Price":598,
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d77f5aec503b2e0f2ab",
+        "name": "Anshu",
+        "email": "anshu@gmail.com",
+        "address": "488 S Mills Rd ,Ventura",
+        "phone": 7563453860,
+        "purchase-category":"Pet Care",
+        "purchase-item":"Dogs Food",
+        "Item-detail":"FlavourChicken",
+        "Age Range (Description)":"Adult",
+        "Item Form":"Dry",
+        "Brand":	"Pedigree",
+        "Item Weight":"20000 Grams",
+        "Price":5889,
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d8bf5aec503b2e0f2ac",
+        "name": "Aakash",
+        "email": "aakash@gmail.com",
+        "address": "488 S Mills Rd ,Ventura",
+        "phone": 745297537,
+        "purchase-category":"Electronics",
+        "purchase-item":"Mobile",
+        "Item-detail":"Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 512GB Storage)",
+        "Price":139999,
+        "cost": ,
+        "status": "Pending"
+    }
+])
